@@ -1,1 +1,5 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.container-fluid {
+  background: rgb(0, 66, 165);
+  color: #fff;
+}
